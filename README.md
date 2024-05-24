@@ -1,8 +1,5 @@
-# Servo-Driver-with-ESP32
+# Updated arduino examples for the SCservo library
 
-### Description:
-
-The Web app example for Servo Driver with ESP32.
 
 ### Website:
 
